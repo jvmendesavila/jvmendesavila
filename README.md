@@ -1,6 +1,6 @@
 #  Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > I'm João Victor Mendes Ávila 
 
-### About 👤
+### 👤 About 
 
 Bachelor's Degree in Computer Science and always looking for challenges, I'm a Software Engineer who loves technology and has:
 
@@ -12,12 +12,12 @@ Bachelor's Degree in Computer Science and always looking for challenges, I'm a S
 
 <br/>
 
-### Working..💻⚛️🌎
-I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
+### 💻 Working..
+I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer with ReactJS⚛️ at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
 
 <br/>
 
-### Tools 🛠️
+### 🛠️ Tools
 
 - Programing Languages
 <!-- -  -->
