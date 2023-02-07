@@ -12,6 +12,9 @@ Bachelor's Degree in Computer Science and always looking for challenges, I'm a S
 
 <br/>
 
+### 📕 Learning
+I'm studing AWS and Cypress. Improving knowledges in Tailwind, Jest, NextJS, SSR and SSG.   
+
 ### 💻 Working..
 I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer with ReactJS⚛️ at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
 
