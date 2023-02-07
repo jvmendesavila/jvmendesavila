@@ -35,13 +35,6 @@ I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer wi
 <!-- -  -->
 [![My Skills](https://skillicons.dev/icons?i=git,docker,k8s,grafana,github,gitlab&theme=dark)](https://skillicons.dev)
 
-<!-- <br/><br/>
-
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvmendesavila&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmendesavila&layout=compact&langs_count=7&theme=blue-green"/>
-</div> -->
-
 #### 💬 Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/)](https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/) 
 [![Gmail Badge](https://img.shields.io/badge/-joaovictormendesavila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictormendesavila@gmail.com)](mailto:joaovictormendesavila@gmail.com)
