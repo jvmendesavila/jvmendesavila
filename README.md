@@ -36,7 +36,7 @@ I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer wi
 <br/>
 
 ### 📕 Learning
-I'm studing AWS and Cypress. Improving knowledges in NextJS 13, SSR and SSG. 
+I'm studing NodeJS. 
 
 #### 💬 Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/)](https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/) 
