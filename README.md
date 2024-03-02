@@ -4,8 +4,6 @@
 
 Bachelor's Degree in Computer Science and always looking for challenges, I'm a Software Engineer who loves technology and has:
 
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
 - More than 5 years of experience as an Front-End Developer, I already worked with AngularJS, React, Redux-Saga, NextJS, Material UI/Semantic UI, integrations with MaxiPago, Firebase and Google Maps API's, Unit Test(Jest), CI/CD(Gitlab/Github), Docker, Kubernets, Rancher, Monitoring (Datadog).
 
 - 1 year of experience as an Back-End Developer, working with JAVA, Spring MVC, Spring Boot, MongoDB and MySQL.
