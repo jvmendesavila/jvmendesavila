@@ -2,13 +2,9 @@
 
 ### 👤 About 
 
-Bachelor's Degree in Computer Science and always looking for challenges, I'm a Software Engineer who loves technology and has:
+With a Bachelor's degree in Computer Science and always looking for challenges, I am a software engineer who loves technology with over 6 years of experience as a Software Developer, working mainly with Javascript, Typescript, ReactJS, NodeJs and NextJS.
 
-- More than 5 years of experience as an Front-End Developer, I already worked with AngularJS, React, Redux-Saga, NextJS, Material UI/Semantic UI, integrations with MaxiPago, Firebase and Google Maps API's, Unit Test(Jest), CI/CD(Gitlab/Github), Docker, Kubernets, Rancher, Monitoring (Datadog).
-
-- 1 year of experience as an Back-End Developer, working with JAVA, Spring MVC, Spring Boot, MongoDB and MySQL.
-
-<br/>  
+https://portifolio-jvmendesavila.vercel.app/pt
 
 ### 💻 Working..
 I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer with ReactJS⚛️ and NodeJS at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
@@ -23,7 +19,7 @@ I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer wi
 
 - Libs & Frameworks
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,next,vue,angular&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,next,vue,angular,node,express&theme=dark)](https://skillicons.dev)
 
 - Styles
 <!-- -  -->
