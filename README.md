@@ -19,7 +19,7 @@ I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer wi
 
 - Libs & Frameworks
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,next,vue,angular,node,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,next,vue,angular,nodejs,express&theme=dark)](https://skillicons.dev)
 
 - Styles
 <!-- -  -->
