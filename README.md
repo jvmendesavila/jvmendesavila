@@ -11,7 +11,7 @@ Bachelor's Degree in Computer Science and always looking for challenges, I'm a S
 <br/>  
 
 ### 💻 Working..
-I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer with ReactJS⚛️ at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
+I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer with ReactJS⚛️ and NodeJS at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
 
 <br/>
 
@@ -34,9 +34,6 @@ I’m a Software Engineer Mid Level. Currently I'm working as a Web Developer wi
 [![My Skills](https://skillicons.dev/icons?i=git,docker,k8s,grafana,github,gitlab&theme=dark)](https://skillicons.dev)
 
 <br/>
-
-### 📕 Learning
-I'm studing NodeJS. 
 
 #### 💬 Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/)](https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/) 
