@@ -7,7 +7,7 @@ With a Bachelor's degree in Computer Science and always looking for challenges, 
 https://portifolio-jvmendesavila.vercel.app/pt
 
 ### 💻 Working..
-I’m a Software Engineer Mid Level. Currently I'm working as a Senior Software Engineer with ReactJS⚛️ and NodeJS at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
+I’m a Software Engineer. Currently I'm working as a Senior Software Engineer with ReactJS⚛️ and NodeJS at [**Americanas S.A**](https://www.linkedin.com/company/americanas-sa).
 
 <br/>
 
