@@ -15,11 +15,11 @@ I’m a Software Engineer. Currently I'm working as a Senior Software Engineer w
 
 - Programing Languages
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py&theme=dark)](https://skillicons.dev)
 
 - Libs & Frameworks
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,next,vue,angular,nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,angular,nodejs,express&theme=dark)](https://skillicons.dev)
 
 - Styles
 <!-- -  -->
@@ -27,7 +27,7 @@ I’m a Software Engineer. Currently I'm working as a Senior Software Engineer w
 
 - DevOps
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=git,docker,k8s,grafana,github,gitlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=k8s,docker,git,grafana&theme=dark)](https://skillicons.dev)
 
 <br/>
 
