@@ -23,11 +23,11 @@ I’m a Software Engineer. Currently I'm working as a Senior Software Engineer w
 
 - Styles
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,materialui,tailwind,figma,svg&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,styledcomponents,html,css,svg&theme=dark)](https://skillicons.dev)
 
 - DevOps
 <!-- -  -->
-[![My Skills](https://skillicons.dev/icons?i=k8s,docker,git,grafana&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=k8s,docker,git&theme=dark)](https://skillicons.dev)
 
 <br/>
 
