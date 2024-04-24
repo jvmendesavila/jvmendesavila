@@ -32,5 +32,5 @@ I’m a Software Engineer. Currently I'm working as a Senior Software Engineer w
 <br/>
 
 #### 💬 Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/)](https://www.linkedin.com/in/joão-victor-mendes-ávila-699b76158/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmendesavila/)](https://www.linkedin.com/in/jvmendesavila/) 
 [![Gmail Badge](https://img.shields.io/badge/-joaovictormendesavila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictormendesavila@gmail.com)](mailto:joaovictormendesavila@gmail.com)
